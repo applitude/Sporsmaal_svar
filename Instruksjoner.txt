@@ -1,0 +1,5 @@
+Spørsmål.txt inneholder alle spørsmålene, mens Svar.txt har svarene, med alternativer.
+
+I Svar.txt er det alltid det øverste svaret som er det rett. Anbefaler at dere
+ikke lar det øverste alternativet alltid være det rette i appen. Rekkefølgen
+på svar og spørsmål er den samme, og hver svarbolk er adskilt med linjeskift.
